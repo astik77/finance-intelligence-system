@@ -1,0 +1,11 @@
+Date,Description,Category,Amount,Type
+2026-05-01,Zomato,Food,450,Debit
+2026-05-01,Salary,Income,50000,Credit
+2026-05-02,Uber,Travel,220,Debit
+2026-05-03,Amazon,Shopping,1999,Debit
+2026-05-04,Netflix,Entertainment,649,Debit
+2026-05-05,Swiggy,Food,320,Debit
+2026-05-06,Electricity Bill,Utilities,1800,Debit
+2026-05-07,Freelance Payment,Income,12000,Credit
+2026-05-08,Bookstore,Education,799,Debit
+2026-05-09,Gym Membership,Health,1500,Debit
