@@ -1,2 +1,23 @@
 # finance-intelligence-system
-An AI-powered personal finance analytics system that processes bank/expense CSVs, categorizes spending, detects unusual transactions, and generates actionable monthly insights with data visualization. Built using Python, Pandas, and OOP principles for real-world financial intelligence automation.
+
+## Personal Finance Intelligence System
+
+A Python-based financial analytics system that:
+- analyzes spending
+- categorizes expenses
+- generates insights
+- detects anomalies
+- visualizes trends
+
+### Tech Stack
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+### Features
+- CSV transaction analysis
+- Expense categorization
+- Monthly analytics
+- Spending insights
+- Anomaly detection
